@@ -34,6 +34,7 @@ This dashboard visualizes the **Sales Performance** of a company, providing insi
 
 ## 📁 How to View
 
+Copy this link : **https://public.tableau.com/app/profile/cyria.dane.condes/viz/SCM820_TableauExercise_CyriaCondes/Dashboard2?publish=yes** or 
 You can view this dashboard by downloading the `.twbx` Tableau Workbook file from this repository and opening it with Tableau Desktop or Tableau Public.
 
 
