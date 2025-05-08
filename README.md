@@ -1,6 +1,7 @@
 # Sales Performance Dashboard
 Hi, I'm **Dane**, aspiring data analyst in field of Supply Chain. This project is part of my data analytics portfolio showcasing my skills in data visualization and storytelling.
 This dashboard visualizes the **Sales Performance** of a company, providing insights into employee metrics, production output, managerial effectiveness, and departmental engagement.
+View the dashboard here: **https://public.tableau.com/app/profile/cyria.dane.condes/viz/SCM820_TableauExercise_CyriaCondes/Dashboard2?publish=yes**
 
 ## Key Features
 
